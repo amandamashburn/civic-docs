@@ -72,8 +72,6 @@ Nor have We been wanting in attentions to our Brittish brethren. We have warned 
 We, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States may of right do. And for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor.
 
 
-
-
 **Georgia**
 
 Button Gwinnett
@@ -82,7 +80,6 @@ Lyman Hall
 
 George Walton
 
- 
 
 **North Carolina**
 
@@ -92,7 +89,6 @@ Joseph Hewes
 
 John Penn
 
- 
 
 **South Carolina**
 
@@ -104,13 +100,13 @@ Thomas Lynch, Jr.
 
 Arthur Middleton
 
- 
 
 **Massachusetts**
 
 John Hancock
 
-Maryland
+
+**Maryland**
 
 Samuel Chase
 
@@ -120,7 +116,6 @@ Thomas Stone
 
 Charles Carroll of Carrollton
 
- 
 
 **Virginia**
 
@@ -138,7 +133,6 @@ Francis Lightfoot Lee
 
 Carter Braxton
 
- 
 
 **Pennsylvania**
 
@@ -160,7 +154,8 @@ James Wilson
 
 George Ross
 
-Delaware
+
+**Delaware**
 
 Caesar Rodney
 
@@ -168,7 +163,6 @@ George Read
 
 Thomas McKean
 
- 
 
 **New York**
 
@@ -180,7 +174,6 @@ Francis Lewis
 
 Lewis Morris
 
- 
 
 **New Jersey**
 
@@ -194,7 +187,6 @@ John Hart
 
 Abraham Clark
 
- 
 
 **New Hampshire**
 
@@ -202,7 +194,6 @@ Josiah Bartlett
 
 William Whipple
 
- 
 
 **Massachusetts**
 
@@ -214,7 +205,6 @@ Robert Treat Paine
 
 Elbridge Gerry
 
- 
 
 **Rhode Island**
 
