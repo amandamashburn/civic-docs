@@ -1,4 +1,3 @@
 # civic-docs
-Foundational civic documents of the United States. A resource for readers, teachers, and developers.
-
+Foundational civic documents of the United States.
 🚧 Repository under construction.
