@@ -1,9 +1,7 @@
 ---
-id: declaration
 title: "Declaration of Independence"
 date: "1776-07-04"
 source_url: "https://www.archives.gov/founding-docs/declaration-transcript"
-license: "CC0-1.0"
 ---
 In Congress, July 4, 1776
 
